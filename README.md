@@ -1,6 +1,6 @@
 # Add-To-Chart-Button
 
-https://github.com/BogdanMoale/Add-To-Chart-Button
+https://bogdanmoale.github.io/Add-To-Chart-Button/
 
 This JavaScript code snippet is designed to create an animation effect when a button is clicked. It also incorporates audio feedback using an HTML5 audio element.
 
